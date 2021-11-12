@@ -1,0 +1,10 @@
+.timer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 400px;
+  font-size: 70px;
+}
+
+.field {
+  color: #1E90FF
+}
